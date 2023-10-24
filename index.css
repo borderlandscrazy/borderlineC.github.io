@@ -100,16 +100,16 @@ h5 {
 }
 
 .card2 {
-    background-image: url(Images/CtR.jpg);
+    background-image: url(CtR.jpg);
     
 }
 
 .card3 {
-    background-image: url(Images/GWoC.jpg);
+    background-image: url(GWoC.jpg);
 }
 
 .card4 {
-    background-image: url(Images/Petra.jpg);
+    background-image: url(Petra.jpg);
     
 }
 
@@ -118,12 +118,12 @@ h5 {
 }
 
 .card6 {
-    background-image: url(Images/MachuPicchu.jpg);
+    background-image: url(MachuPicchu.jpg);
     
 }
 
 .card7 {
-    background-image: url(Images/TajMahal.jpg);
+    background-image: url(TajMahal.jpg);
     grid-column: 2 / 4;
     grid-row: 3 / 4;
     margin-top: 10px;
