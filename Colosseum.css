@@ -25,7 +25,7 @@ body{
 .bodyGWoC{
     width: 100%;
     height: 100vh;
-    background-image: linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)),url(Images/GWoC.jpg);
+    background-image: linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)),url(GWoC.jpg);
     background-position: center;
     background-size: cover;
     background-attachment: fixed;
@@ -34,7 +34,7 @@ body{
 .bodyPetra{
     width: 100%;
     height: 100vh;
-    background-image: linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)),url(Images/Petra.jpg);
+    background-image: linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)),url(Petra.jpg);
     background-position: center;
     background-size: cover;
     background-attachment: fixed;
@@ -43,7 +43,7 @@ body{
 .bodyChichen{
     width: 100%;
     height: 100vh;
-    background-image: linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)),url(Images/ChichenItza.jpg);
+    background-image: linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)),url(ChichenItza.jpg);
     background-position: center;
     background-size: cover;
     background-attachment: fixed;
@@ -52,7 +52,7 @@ body{
 .bodyMachuPicchu{
     width: 100%;
     height: 100vh;
-    background-image: linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)),url(Images/MachuPicchu.jpg);
+    background-image: linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)),url(MachuPicchu.jpg);
     background-position: center;
     background-size: cover;
     background-attachment: fixed;
@@ -61,7 +61,7 @@ body{
 .bodyTajMahal{
     width: 100%;
     height: 100vh;
-    background-image: linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)),url(Images/TajMahal.jpg);
+    background-image: linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)),url(TajMahal.jpg);
     background-position: center;
     background-size: cover;
     background-attachment: fixed;
